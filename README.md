@@ -11,7 +11,7 @@ Ce projet est une API Django permettant d'uploader plusieurs photos et de déter
 🛠️ Installation
 1️Cloner le projet
 
-git clone https://github.com/ton-repo/photo-parfaite-backend.git
+git clone https://github.com/OTISDav/photo-parfaite-backend.git
 cd photo-parfaite-backend
 
 2️⃣réer et activer un environnement virtuel
